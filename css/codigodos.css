@@ -1,0 +1,108 @@
+body{
+    margin: 0%;
+}
+#cuadrado{
+    height: 360px;
+    width: 500px;
+    background: #EFEFEF;
+    float: nome;
+    position: absolute; left: 720px; top: 250px;
+    box-shadow: 10px 10px 5px 0 #395455;
+    border-radius: 20px;
+}
+.face{
+    text-decoration: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background: #E5E5E5;
+    float: none;
+    position: absolute; left: 780px; top: 190px;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.face:hover{
+    background: #C2CACA;
+}
+.goo{
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    background: #E5E5E5;
+    float: none;
+    position: absolute; left: 910px; top: 190px;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.goo:hover{
+    background: #C2CACA;
+}
+.app{
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    background: #E5E5E5;
+    float: none;
+    position: absolute; left: 1030px; top: 190px;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.app:hover{
+    background: #C2CACA;
+}
+.nosee{
+    height: 100px;
+    width: 500px;
+    background: #EFEFEF;
+    float: nome;
+    position: absolute; left: 720px; top: 140px;
+    box-shadow: 10px 8px 5px 0 #395455;
+    border-radius: 20px;
+}
+#tambien{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; left: 780px; top: 160px;
+    font-size: 20px;
+}
+#noseee{
+    height: 100px;
+    width: 600px;
+    background: #EFEFEF;
+    float: nome;
+    position: absolute; left: 720px; top: 140px;
+    box-shadow: 10px 8px 5px 0 #395455;
+    border-radius: 20px;
+}
+#cuadradoo{
+    height: 360px;
+    width: 600px;
+    background: #EFEFEF;
+    float: nome;
+    position: absolute; left: 720px; top: 250px;
+    box-shadow: 10px 10px 5px 0 #395455;
+    border-radius: 20px;
+}
+#regis{
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    background: #7BAB2C;
+    float: none;
+    padding-left: 15px;
+    padding-top: 15px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#regis:hover{
+    background: #557620;
+}
